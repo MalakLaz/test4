@@ -1,0 +1,6 @@
+{
+  "routes": [
+    "/header",
+    "/user-list"
+  ]
+}
